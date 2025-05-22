@@ -23,6 +23,8 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 6. **Visualize Clusters**: Plot the clusters using different colors to visualize how customers are grouped based on income and spending score.
 
 
+
+
 ## Program:
 ```
 
